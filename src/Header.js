@@ -1,10 +1,19 @@
 import React from 'react';
+import Background from './img/backgroundImage.png';
+
+const backgroundImageStyle = {
+    backgroundImage : `url(${Background})`,
+    height: '300px',
+    backgroundStyle: "cover"
+} 
 
 class Header extends React.Component {
-    const bacgroundImage =
+    
     render() {
         return(
-            <h3>xd</h3>
+            <header style={backgroundImageStyle}>
+                
+            </header>
         );
     }
 }
