@@ -1,10 +1,10 @@
 import React from 'react';
-import Background from './img/backgroundImage.png';
+import Background from './img/handsnew.png';
 
 const backgroundImageStyle = {
     backgroundImage : `url(${Background})`,
-    height: '70vh',
-    backgroundStyle: "cover",
+    height: '80vh',
+    backgroundSize: "cover",
     //backgroundRepeat : 'no-repeat', 
 } 
 
