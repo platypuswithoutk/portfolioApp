@@ -5,6 +5,7 @@ import './css/Header.css';
 import './css/About.css'
 import './css/Content.css';
 import './css/Seo.css';
+import './css/App.css';
 import App from './App';
 
 
