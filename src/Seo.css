@@ -1,0 +1,60 @@
+#seo-section {
+    background-color: rgb(48, 45, 87);
+}
+
+.seo-text h3 {
+    padding-top: 100px;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+}
+
+.seo-text p {
+    font-size: 20px;
+    color: lightgray;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.seo-img {
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 50px;
+    padding-bottom: 100px;
+}
+
+blockquote {
+    width: 600px;
+    border-width: 2px 0;
+    border-style: solid;
+    border-color: #eee;
+    color: #fff;
+    font-size: 17px;
+    letter-spacing: 2px;
+    padding: 1.5em 0 0.5em;
+    position: relative;
+  }
+
+  blockquote:before {
+    content: '\201C';
+    position: absolute;
+    top: 0em;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    width: 3rem;
+    height: 2rem;
+    font: 6em/1.08em 'PT Sans', sans-serif;
+    text-align: center;
+  }
+  blockquote:after {
+    content: "\2013 \2003" attr(cite);
+    display: block;
+    text-align: right;
+    font-size: 0.875em;
+    color: #e74c3c;
+  }

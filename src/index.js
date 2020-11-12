@@ -4,6 +4,7 @@ import './App.css';
 import './Header.css';
 import './About.css'
 import './Content.css';
+import './Seo.css';
 import App from './App';
 
 

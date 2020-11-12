@@ -11,7 +11,7 @@ header h1 {
 }
 
 header p {
-    color: black;
+    color: rgb(141, 88, 88);
     font-size: 2rem;
     font-weight: bold;
     margin-top: 5px;
@@ -23,7 +23,6 @@ header a{
     font-weight: 700;
     background-color: rgb(48, 45, 87);
     color: #fff;
-    border-color: #1d880f;
     padding: 15px 25px;
     border-radius: .25rem;
     text-decoration: none;
