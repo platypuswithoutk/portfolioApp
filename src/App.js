@@ -15,7 +15,7 @@ class App extends Component {
           <About/>
           <Content/>
           <Seo tittle="SEO/SEM - Your company really need it!"/>
-          <Contact tittle="Keep in touch"/>
+          <Contact />
         </div>
     );
   }
