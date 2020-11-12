@@ -1,0 +1,28 @@
+#content-section h3 {
+    font-size: 25px;
+    color: rgb(48, 45, 87);
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 100px;
+}
+
+.section-text {
+    display:flex;
+    justify-content: space-around;
+} 
+
+.section-text li {
+    padding: 10px;
+    color: rgb(85, 64, 64);
+    margin-left: 80px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+
+#content-section p {
+    font-size: 20px;
+    padding-top:30px;
+    margin-left: 80px;
+}
