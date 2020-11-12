@@ -4,6 +4,7 @@ import Navigation from './Navigation';
 import About from './About';
 import Content from './Content';
 import Seo from './Seo';
+import Contact from './Contact';
 
 class App extends Component {
   render() {
@@ -13,7 +14,8 @@ class App extends Component {
           <Header title="Ninja World" button="Read more"/>
           <About/>
           <Content/>
-          <Seo />
+          <Seo tittle="SEO/SEM - Your company really need it!"/>
+          <Contact />
         </div>
     );
   }

@@ -13,7 +13,7 @@ class Seo extends Component {
         return(
             <section id="seo-section">
                 <div class="seo-text">
-                    <h3>SEO/SEM - Your company really need it!</h3>
+                    <h3>{this.props.tittle}</h3>
                     <p>The main difference is that Search Engine Optimization (SEO) is focused on optimizing a website in order to get traffic from organic search results. On the other hand, the goal of Search Engine Marketing (SEM) is to get traffic and visibility from both organic and paid search.</p>
                 </div>
                 <div class="seo-img">

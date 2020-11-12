@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './App.css';
-import './Header.css';
-import './About.css'
-import './Content.css';
-import './Seo.css';
+import './css/About.css';
+import './css/Header.css';
+import './css/About.css'
+import './css/Content.css';
+import './css/Seo.css';
 import App from './App';
 
 
