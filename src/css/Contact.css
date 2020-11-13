@@ -3,6 +3,11 @@
     font-size: 30px;
     text-align:center;
     color: rgb(70, 69, 69);
+    margin-top: 0;
+}
+
+.contact-section {
+    background-color: #E9D2F4;
 }
 
 .company-details h3 {
@@ -75,7 +80,7 @@ input[type=submit] {
   
   .form {
     border-radius: 5px;
-    background-color: #d1d0d0;
+    background-color:	rgb(178, 188, 188);
     padding: 20px;
     margin-left: 100px;
   }
