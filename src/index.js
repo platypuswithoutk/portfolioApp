@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './css/About.css';
 import './css/Header.css';
 import './css/About.css'
+import './css/Team.css';
 import './css/Content.css';
 import './css/Seo.css';
 import './css/App.css';

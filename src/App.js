@@ -6,6 +6,7 @@ import Content from './Content';
 import Seo from './Seo';
 import Contact from './Contact';
 import Footer from './Footer';
+import Team from './Team';
 
 class App extends Component {
   render() {
@@ -13,7 +14,8 @@ class App extends Component {
         <div clasName="portfolio-page">
           <Navigation logoTitle="SEO is our HERO"/>
           <Header title="Ninja World" button="Read more"/>
-          <About/>
+          <About />
+          <Team name="Our team"/>
           <Content/>
           <Seo tittle="SEO/SEM - Your company really need it!"/>
           <Contact />

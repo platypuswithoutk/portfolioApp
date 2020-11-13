@@ -4,7 +4,7 @@
     text-align: center;
     margin-left: 100px;
     margin-right: 100px;
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 .section-text {
@@ -18,6 +18,10 @@
     margin-left: 80px;
     font-size: 17px;
     font-weight: bold;
+}
+
+#content-section {
+    background-color: rgb(255, 255, 255);
 }
 
 
