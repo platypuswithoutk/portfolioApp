@@ -5,9 +5,11 @@ header {
 }
 
 header h1 {
+    padding-top: 10px;
     color: rgb(48, 45, 87);
     font-size: 4rem; 
     margin-bottom: 0;
+    font-weight: bolder ;
 }
 
 header p {

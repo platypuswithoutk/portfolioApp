@@ -45,7 +45,7 @@
     padding-bottom: 100px;
 }
 
-input[type=text], select {
+input[type=text], select, input[type=tel] {
     width: 86%;
     padding: 12px 20px;
     margin: 8px 0;

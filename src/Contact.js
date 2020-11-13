@@ -15,7 +15,9 @@ class Contact extends Component {
                         <label for="company">Company name</label>
                             <input type="text" id="company" placeholder="Company name..."/>
                         <label for="phone">Phone number</label>
-                            <input type="text" value="Phone number"/>
+                            <input type="tel" id="phone" name="phone"
+                                pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+                                required/>
                         <input type="submit" value="Send email"/>
                         </form>
                     </div>
