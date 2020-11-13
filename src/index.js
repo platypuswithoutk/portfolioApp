@@ -6,6 +6,7 @@ import './css/About.css'
 import './css/Content.css';
 import './css/Seo.css';
 import './css/App.css';
+import './css/Contact.css';
 import App from './App';
 
 
