@@ -7,6 +7,7 @@ import Seo from './Seo';
 import Contact from './Contact';
 import Footer from './Footer';
 import Team from './Team';
+import Client from './Client'
 
 class App extends Component {
   render() {
@@ -18,6 +19,7 @@ class App extends Component {
           <Team name="Our team"/>
           <Content/>
           <Seo tittle="SEO/SEM - Your company really need it!"/>
+          <Client/>
           <Contact />
           <Footer />
         </div>
