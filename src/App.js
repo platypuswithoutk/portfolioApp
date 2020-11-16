@@ -18,8 +18,8 @@ class App extends Component {
           <About />
           <Team name="Our team"/>
           <Content/>
-          <Seo tittle="SEO/SEM - Your company really need it!"/>
           <Client/>
+          <Seo tittle="SEO/SEM - Your company really need it!"/>
           <Contact />
           <Footer />
         </div>
