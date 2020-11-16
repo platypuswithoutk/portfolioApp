@@ -9,7 +9,7 @@ import portraitImage5 from './img/portrait5.jpg';
 class Team extends Component {
     render() {
         return(
-            <div className="team">
+            <div className="team" id="Team">
                 <h3>{this.props.name}</h3>
                 <div className="team-people">
                     <div className="team-img">

@@ -22,7 +22,7 @@ class Content extends Component {
     });
 
         return(
-            <section id="content-section">
+            <section className="content-section" id="Content">
                 <h3>An SEO agency handles the many aspects of SEO for your business. This can range from creating content that’s SEO-friendly, to researching your competitor’s SEO.</h3>
                 <p>We’ll now dive into the nitty gritty of what an SEO agency can do for you:</p>
                 <div className="section-text">

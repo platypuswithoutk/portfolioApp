@@ -1,4 +1,4 @@
-#content-section h3 {
+.content-section h3 {
     font-size: 25px;
     color: rgb(48, 45, 87);
     text-align: center;
@@ -20,12 +20,12 @@
     font-weight: bold;
 }
 
-#content-section {
+.content-section {
     background-color: rgb(255, 255, 255);
 }
 
 
-#content-section p {
+.content-section p {
     font-size: 20px;
     padding-top:30px;
     margin-left: 80px;
