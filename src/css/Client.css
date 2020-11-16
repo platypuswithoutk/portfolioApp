@@ -1,0 +1,8 @@
+.clients {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0 20px;
+    box-shadow: 1px 0px 19px 4px rgb(48, 45, 87);
+}

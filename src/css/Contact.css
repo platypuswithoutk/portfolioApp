@@ -7,7 +7,7 @@
 }
 
 .contact-section {
-    background-color: #E9D2F4;
+    background-color: rgb(231, 231, 231);
 }
 
 .company-details h3 {
@@ -80,7 +80,7 @@ input[type=submit] {
   
   .form {
     border-radius: 5px;
-    background-color:	rgb(178, 188, 188);
+    background-color:rgb(178, 188, 188);
     padding: 20px;
     margin-left: 100px;
   }

@@ -9,6 +9,7 @@ import './css/Seo.css';
 import './css/App.css';
 import './css/Contact.css';
 import './css/Footer.css';
+import './css/Client.css';
 import App from './App';
 
 
