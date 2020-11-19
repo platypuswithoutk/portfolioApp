@@ -5,8 +5,7 @@ const bdImage = {
     backgroundImage: `url(${bgImage})`,
     backgroundRepeat : 'no-repeat', 
     backgroundPosition: 'top',
-    height: '68vh',
-    width: '700px',
+    width: '100%',
 }
 
 class Content extends Component {

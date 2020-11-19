@@ -4,13 +4,17 @@
     text-align: center;
     margin-left: 100px;
     margin-right: 100px;
-    padding-top: 80px;
+    padding-top: 100px;
 }
 
 .section-text {
     display:flex;
-    justify-content: space-around;
+    justify-content: center
 } 
+
+ol {
+    flex-basis: 30%;
+}
 
 .section-text li {
     padding: 10px;
@@ -20,13 +24,16 @@
     font-weight: bold;
 }
 
+.section-image {
+    flex-basis: 50%;
+}
+
 .content-section {
     background-color: rgb(255, 255, 255);
 }
 
-
 .content-section p {
     font-size: 20px;
     padding-top:30px;
-    margin-left: 80px;
+    margin-left: 100px;
 }
