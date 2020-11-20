@@ -6,23 +6,34 @@ body {
   text-align: center;
 }
 
+h3 {
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+}
+
 .wrapper {
   background-color: rgb(48, 45, 87);
   padding-left:20px;
   padding-right: 20px;
   width: 98%;
   position: fixed; 
+
 }
 
 h2 {
   font-size: 30px;
   color: #fff;
+  font-family: 'Abril Fatface', cursive;
+  font-style:italic;
+  letter-spacing: 2px;
 }
 
 nav {
   display:flex;
   justify-content: space-between;
   align-items: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
 }
 
 nav ul {

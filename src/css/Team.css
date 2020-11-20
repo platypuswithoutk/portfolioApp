@@ -25,9 +25,12 @@
 
 .team-img p {
     padding-bottom: 100px;
+    font-style:italic;
 }
 
-h4 {
+.team-img h4 {
     font-weight: bold;
     font-size: 20px;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
