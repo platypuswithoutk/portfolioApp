@@ -10,6 +10,7 @@ import './css/App.css';
 import './css/Contact.css';
 import './css/Footer.css';
 import './css/Client.css';
+import './css/responsive.css';
 import App from './App';
 
 

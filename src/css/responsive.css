@@ -1,0 +1,179 @@
+@media (max-width: 952px){
+    label.logo{
+      font-size: 30px;
+      padding-left: 50px;
+    }
+    nav ul li a{
+      font-size: 16px;
+    }
+  }
+
+  @media (max-width: 858px){
+    .checkbtn{
+      display: block;
+    }
+    ul{
+      position: fixed;
+      width: 90%;
+      height: 100vh;
+      background: #2c3e50;
+      top: 80px;
+      left: -100%;
+      text-align: center;
+      transition: all .5s;
+    }
+    nav ul li{
+      display: block;
+      margin: 50px 0;
+      line-height: 30px;
+    }
+    nav ul li a{
+      font-size: 20px;
+    }
+    a:hover,a.active{
+      background: none;
+      color: rgb(31, 151, 177);
+    }
+    #check:checked ~ ul{
+      left: 0;
+    }
+  }
+  
+  @media (max-width: 425px) {
+
+    header {
+        height: auto !important;
+        width: 100% !important;
+    }
+    header h1 {
+        font-size: 30px;
+    }
+
+    label.logo {
+        font-size: 19px;
+    }
+
+    .header-style {
+        margin: 20px 50px 40px 50px;
+        padding-top: 0;
+        padding-bottom: 40px;
+    }
+
+    header p {
+        font-size: 1rem;
+    }
+
+    #btn {
+        font-size: 10px;
+        padding: 10px 20px;
+    }
+
+    .about h3, .team h3, .seo-text h3 {
+        padding: 60px 10px 30px 10px;
+        font-size: 1.5rem;
+    }
+
+    .about p {
+        font-size: 1rem;
+        margin: 0 50px;
+    }
+
+    .promises {
+        margin: 0;
+        justify-content: center;
+    }
+
+    .promises-icon i {
+        font-size: 40px;
+    }
+
+    .promises-icon p {
+        margin: 10px;
+        padding-bottom: 50px;
+    }
+
+    .team-people {
+        justify-content: center;
+        margin: 0 20px;
+        flex-wrap: wrap;
+    }
+
+    .team-img {
+        width:50%;
+    }
+
+    .team-img img {
+        width: 65%;
+    }
+
+    .team-img h4, .team-img p {
+        font-size: 15px;
+    }
+
+    .content-section h3 {
+        margin: 0 20px;
+        padding-top: 50px;
+        font-size: 18px;
+    }
+
+    .content-section p {
+        font-size: 17px;
+        margin-left:30px;
+    }
+
+    .section-text {
+        display: block;
+    }
+
+    .section-text  ol li {
+        margin-left: 36px;
+    }
+
+    .section-image {
+        display:none;
+    }
+
+    .clients-section {
+        padding-top: 20px;
+    }
+
+    .clients img {
+        width: 50%;
+    }
+
+    .seo-text p {
+        font-size: 17px;
+        margin: 0px 10px;
+        padding-top: 10px;
+    }
+
+    .seo-img {
+        display: none;
+    }
+
+    .contact-section h2{
+        padding-top: 50px;
+        font-size: 20px;
+    }
+
+    .contact-wrapper {
+        display:block;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .form {
+        margin: 0 40px;
+    }
+
+    .company-details {
+        margin: 0 40px;
+    }
+
+    .company-details h3 {
+        font-size: 18px;
+        padding-top: 20px;
+    }
+  }
+  
+  

@@ -11,7 +11,11 @@ class Navigation extends Component {
     return (
       <div className="wrapper">
         <nav>
-          <h2>{this.props.logoTitle}</h2>
+          <input type="checkbox" id="check"></input>
+            <label for="check" class="checkbtn">
+              <i class="fas fa-bars"></i>
+          </label>
+          <label class="logo">{this.props.logoTitle}</label>
           <ul>
             {navLinks}
           </ul>

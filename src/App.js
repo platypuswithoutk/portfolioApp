@@ -13,6 +13,7 @@ class App extends Component {
   render() {
       return(
         <div clasName="portfolio-page">
+          
           <Navigation logoTitle="SEO is our HERO"/>
           <Header title="Ninja World" button="Read more"/>
           <About />

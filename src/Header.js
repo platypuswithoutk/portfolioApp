@@ -3,9 +3,10 @@ import Background from './img/success.jpg';
 
 const backgroundImageStyle = {
     backgroundImage : `url(${Background})`,
-    height: '81vh',
+    height: '90vh',
+    width: '100%',
     backgroundSize: "cover",
-    backgroundPosition: 'center',
+    backgroundPosition: 'center'
     //backgroundRepeat : 'no-repeat', 
 } 
 
